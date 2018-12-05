@@ -1,5 +1,13 @@
 # C-Repository
 
+6. Write a C# Sharp program to print the output of multiplication of three numbers which will be entered by the user. 
+.
+.
+.
+.
+.
+.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 using System;
 
 public class Exercise1
